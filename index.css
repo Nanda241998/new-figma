@@ -1,0 +1,48 @@
+body{
+  background-color: black;
+  font-family: 'Inter';
+}
+
+.container{
+    box-sizing: border-box;
+    width: 560px;
+   height: 380px;
+   border: 1px solid white;
+   margin-bottom: 200px;
+
+  padding: 30px;
+  color: black;
+  margin-top: 150px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+  
+}
+h1{
+  
+
+    margin-top: 100px;
+    margin-left:40px ;
+    color: white;
+    position: absolute;
+   
+    width: 412px;
+    height: 39px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px; 
+
+
+}
+h2{
+margin-left: 700px;
+    margin-top: 100px;
+    color: white;
+    position: absolute;
+   
+    width: 412px;
+    height: 39px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px; 
+}
